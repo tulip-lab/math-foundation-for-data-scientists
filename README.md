@@ -4,12 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/math-foundation-for-data-scientists)](https://github.com/tulip-lab/math-foundation-for-data-scientists/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/math-foundation-for-data-scientists)](https://github.com/tulip-lab/math-foundation-for-data-scientists/pulls) 
 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/flip01/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/pulls) 
-
 
 [![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/Math.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/math-foundation-for-data-scientists/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/tulip-lab/Math.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/math-foundation-for-data-scientists/network/)
@@ -70,7 +64,7 @@ This unit needs a total of **48** class hours, including **40** hours teaching, 
 | :nine: | Core | :book: [Concentration Inequalities and LLN](S09-Inequalities/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
 | :keycap_ten: | Core | :book: [Statistical Inference](S10-Inference/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
 | :b: | Student Work | :book: [Selected Topics](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :trophy: | Advanced | :book: [Convex Optimization]([S09-RLM/README.md](https://github.com/tulip-lab/statistical-machine-learning/blob/main/S08-Optimization/README.md)) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) | 
+| :trophy: | Advanced | :book: [Convex Optimization](https://github.com/tulip-lab/statistical-machine-learning/blob/main/S08-Optimization/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) | 
 
 
 ### :u6e80: Assessment
