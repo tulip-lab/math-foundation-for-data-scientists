@@ -25,8 +25,27 @@ Just because we give you a lot of the content in advance, it doesn't mean that w
 
 To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts.
 
+Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
+
+We would like you to go through the sessions at the time of your ease, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the sessions is that each has a consistent format, especially featuring:
+
 - A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to ensure that you have achieved each of these objectives.
 
+
+
+#### :dolphin: Preliminary Sessions
+
+We will provide some overview introduction to the unit, as well as the path to excellence. 
+
+#### :koala: Core Sessions
+
+At the heart of the unit are **10** core sessions. These core sessions address the statistical machine learning theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+
+#### :eagle: Advanced Sessions
+
+In additional to [core sessions](#core-sessions), there are some advanced topics. These topics are **optional**, and they either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
+
+They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
 
 ## :dart: Unit Learning Outcomes 
 
