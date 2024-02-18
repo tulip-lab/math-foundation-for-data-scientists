@@ -64,7 +64,7 @@ This unit needs a total of **48** class hours, including **40** hours teaching, 
 | :nine: | Core | :book: [Concentration Inequalities and LLN](S09-Inequalities/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
 | :keycap_ten: | Core | :book: [Statistical Inference](S10-Inference/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
 | :b: | Student Work | :book: [Selected Topics](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/SML-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :trophy: | Advanced | :book: [Convex Optimization](https://github.com/tulip-lab/statistical-machine-learning/blob/main/S08-Optimization/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) | 
+| :trophy: | Advanced | :book: [Convex Optimization](https://github.com/tulip-lab/statistical-machine-learning/blob/main/S08-Optimisation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) | 
 
 
 ### :u6e80: Assessment
